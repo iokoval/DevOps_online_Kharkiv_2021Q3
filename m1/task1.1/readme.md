@@ -1,5 +1,5 @@
 ###GIT</b>
-to this exersiser, i have small experince whith git</b>
+before this exersise, i have small experince whith git</b>
 but now, i did this exersise, and i know something new for myself</b>
 ###DevOps for me 
 DevOps - it is something average beetween sysadmin and developer.</b>
