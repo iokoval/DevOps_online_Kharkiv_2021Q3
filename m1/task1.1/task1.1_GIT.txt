@@ -1,0 +1,16 @@
+604738b HEAD@{0}: merge develop: Fast-forward
+bc363ca HEAD@{1}: checkout: moving from develop to master
+604738b HEAD@{2}: commit (merge): MERGE CONFLICT Down
+34e9357 HEAD@{3}: commit: New Files in folder style
+917c132 HEAD@{4}: merge images: Fast-forward
+ba158ad HEAD@{5}: checkout: moving from styles to develop
+79e8435 HEAD@{6}: commit: Modifie index file on style branch
+0518efb HEAD@{7}: commit: New Branch with New Folder STYLES
+ba158ad HEAD@{8}: checkout: moving from develop to styles
+ba158ad HEAD@{9}: checkout: moving from images to develop
+917c132 HEAD@{10}: commit: Modified index.html(image branch)
+bcb1a8a HEAD@{11}: commit: Add new Branch And Folder Image
+ba158ad HEAD@{12}: checkout: moving from develop to images
+ba158ad HEAD@{13}: commit: add index file
+bc363ca HEAD@{14}: checkout: moving from master to develop
+bc363ca HEAD@{15}: commit (initial): add readme
