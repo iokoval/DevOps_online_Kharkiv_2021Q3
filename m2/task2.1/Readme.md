@@ -14,4 +14,16 @@ link: https://github.com/iokoval/DevOps_online_Kharkiv_2021Q3/blob/master/m2/tas
 In this mode i use port forwarding too, but in this mode Vms can interact with each other, because they have general local area network.  
 link: https://github.com/iokoval/DevOps_online_Kharkiv_2021Q3/blob/master/m2/task2.1/image/NatNetworkconfig.png  
 link: https://github.com/iokoval/DevOps_online_Kharkiv_2021Q3/blob/master/m2/task2.1/image/NatNetworkconfig2.png
-link: https://github.com/iokoval/DevOps_online_Kharkiv_2021Q3/blob/master/m2/task2.1/image/natsshub.png
+link: https://github.com/iokoval/DevOps_online_Kharkiv_2021Q3/blob/master/m2/task2.1/image/natsshub.png  
+### Bridge adapter (in this mode, our Vms have Ip 192.168.31.x, because this Ip it is host lan)  
+link: https://github.com/iokoval/DevOps_online_Kharkiv_2021Q3/blob/master/m2/task2.1/image/bridge.png
+### Host-only(in this method we take one lan of VB 192.168.56.x)
+This adpater we can see in settings, on the host machine. Setting-> Setting network adapter Ethernet->VirtualBox Host-only Ethernet Adapter
+We can comminuicate with VMs from host and from host to Vms  
+## Vagrant  
+Firstly we use init command for initialize our folder and setup vagrant file in this folder  
+link: https://github.com/iokoval/DevOps_online_Kharkiv_2021Q3/blob/master/m2/task2.1/image/vagrantinit.png
+Secondly, we use vargrant up command for start our box,Then we can connect to our machine from host with SSH 
+link: https://github.com/iokoval/DevOps_online_Kharkiv_2021Q3/blob/master/m2/task2.1/image/vagrantUp.png  
+We can check date with command Date
+link: https://github.com/iokoval/DevOps_online_Kharkiv_2021Q3/blob/master/m2/task2.1/image/vagrantdate.png
