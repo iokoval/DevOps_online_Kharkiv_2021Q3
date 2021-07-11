@@ -1,4 +1,8 @@
 ## Task 2.1
+### Hypervisors
+1. I think, about first typeof hypervisors. I mean this srtucture (Hardware->Hypervisor->VMs)
+2. First type of the most popular hypervisors (Hardware->Hypervisor->VMs) this type  more productive because it worksdirectly with hardware.(Hyper-V, KVM, ESXi.)  
+3. Second type of the mos popular hypervisors (Hardware->OS->Hypervisor->VMs(VMware Workstation, Oracle Virtual Box, OpenVZ))
 In this task we are work with configuration Virtual Box,  
 I am use ububntu machine, secondly i have clone this machine and they have some network adapters  
 1. Nat  
